@@ -1,0 +1,6 @@
+1790704738s 1 https://dandiarchive.s3.amazonaws.com/zarr/2306a635-b484-4885-87e8-a229ec1b3676/extensions/quality_metrics/metrics/index/0?versionId=nph8nN3fZY9yTX3j8HsXUu6_BfNm3xzr
+1790704738s 1 https://api.dandiarchive.org/api/zarr/2306a635-b484-4885-87e8-a229ec1b3676/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Findex%2F0&download=true
+1790704738s 1 https://dandiarchive.s3.amazonaws.com/zarr/2306a635-b484-4885-87e8-a229ec1b3676/extensions/template_metrics/metrics/index/0?versionId=nJfJqxRBcLq_GIp9I2YxsVli6assJSL6
+1790704738s 1 https://api.dandiarchive.org/api/zarr/2306a635-b484-4885-87e8-a229ec1b3676/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Findex%2F0&download=true
+1790704738s 1 https://dandiarchive.s3.amazonaws.com/zarr/2306a635-b484-4885-87e8-a229ec1b3676/extensions/template_metrics/peaks_data/index/0?versionId=yv6IK0PJr8E6Q9VG5MV4Ih7pD3u.ignG
+1790704738s 1 https://api.dandiarchive.org/api/zarr/2306a635-b484-4885-87e8-a229ec1b3676/files?prefix=extensions%2Ftemplate_metrics%2Fpeaks_data%2Findex%2F0&download=true
